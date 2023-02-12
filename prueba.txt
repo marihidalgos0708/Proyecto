@@ -1,2 +1,3 @@
 Hello world!
 Prueba de tutorial
+Prueba con regla de automatización
