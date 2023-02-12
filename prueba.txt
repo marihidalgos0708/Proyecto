@@ -1,3 +1,4 @@
 Hello world!
 Prueba de tutorial
 Prueba con regla de automatización
+Prueba sin correo privado
